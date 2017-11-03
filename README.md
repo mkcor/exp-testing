@@ -1,5 +1,8 @@
-# exp-testing
-Demo for reading and testing experimental data.
+# Loading, testing, and wrangling experimental data
+
+Guest Lecture at [PHYS 257](https://www.mcgill.ca/study/2017-2018/courses/phys-257)
+
+*November 16, 2017*
 
 ## Setup
 

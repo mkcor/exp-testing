@@ -15,7 +15,7 @@
 # 1539 started the regeneration of the mass spec and use the turbo on the wall for the time being
 #
 #C'Time(s)', 'PRESSURE(psi)', 'TEMPERATURE(C)', 'FLOW(mbarl/s)', 'P2(mbar)', '4K flange(K)', 'Still flange(K)', 'T MXC flange(K)', 'T_CH8(K)', 'R_CH8(Ohm)', 'heater(A)', 'dt(s)'
-Time  PRESSURE  TEMPERATURE  FLOW  P2  4K flange  Still flange  T MXC flange  T_CH8  R_CH8  heater  dt
+Time  PRESSURE  TEMPERATURE  FLOW  P2  4K_flange  Still_flange  T_MXC_flange  T_CH8  R_CH8  heater  dt
 1505153332.271  6.488  22.972  3.61e-05  0.003126  3.68326  3.34678  6.88776  2.07859  0.0  0.0  1.82
 1505153353.908  6.487  22.972  3.607e-05  0.003126  3.68326  3.34678  6.88776  2.06931  0.0  0.0  23.63
 1505153375.717  6.49  22.969  3.605e-05  0.003126  3.68231  3.34977  6.88776  2.06931  0.0  0.0  45.18

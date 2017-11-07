@@ -1,10 +1,12 @@
 # Loading, testing, and wrangling experimental data
 
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/mkcor/exp-testing/master)
+
 Guest Lecture at [PHYS 257](https://www.mcgill.ca/study/2017-2018/courses/phys-257)
 
 *November 16, 2017*
 
-## Setup
+## Local setup
 
 We use cross-platform package manager [conda](https://conda.io/).
 We recommend using the [Miniconda](https://conda.io/miniconda.html)

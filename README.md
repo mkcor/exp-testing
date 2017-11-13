@@ -31,3 +31,5 @@ run:
 
 * [PyData 101 slides](https://speakerdeck.com/jakevdp/pydata-101)
 by Jake VanderPlas
+* [Tidy Data article](https://www.jstatsoft.org/article/view/v059i10/)
+by Hadley Wickham

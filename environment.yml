@@ -6,6 +6,7 @@ dependencies:
 - matplotlib=2.1.0
 - numpy=1.13.3
 - pandas=0.21.0
+- plotly=2.2.0
 - python=3.6.3
 - scipy=0.19.1
 - seaborn=0.8.1

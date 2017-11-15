@@ -27,6 +27,11 @@ run:
 
     $ conda env update -f environment.yml
 
+## Remote setup
+
+Check out this
+[draft](https://www.authorea.com/users/153798/articles/213273-deploying-computing-environments).
+
 ## References
 
 * [PyData 101 slides](https://speakerdeck.com/jakevdp/pydata-101)

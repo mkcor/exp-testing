@@ -6,6 +6,19 @@ Guest Lecture at [PHYS 257](https://www.mcgill.ca/study/2017-2018/courses/phys-2
 
 *November 16, 2017*
 
+## Summary
+
+We showcase the power and flexibility of Pandas (Python library) for analyzing
+experimental datasets. We use real data, acquired in a physics experiment
+designed to study the flow of superfluid helium in a low-dimensional setup.
+Pandas loads the (tabular) data into a DataFrame (2-dimensional labelled data
+structure). Pandas lets you handle web-hosted data, heterogeneous data (e.g.,
+some columns are numeric and others are character strings), missing data,
+comments (e.g., lab notes). Pandas also offers native timeseries support. We
+cover some best practices for testing data and statistics (distributions). We
+introduce the concept of tidy data, which results from wrangling the raw data
+so that they become easy to work with (i.e., transform, visualize, model).
+
 ## Local setup
 
 We use cross-platform package manager [conda](https://conda.io/).
